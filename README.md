@@ -16,3 +16,4 @@ date  2025/12/25 to 2025/12/28
 
 -solder free     ----> connecting with twisting wires and adding an extra layer of hot glue to make it steady 
 ----------
+- ill come back with the pics and everything after a proper rest see ya  
