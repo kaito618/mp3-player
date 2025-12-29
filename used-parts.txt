@@ -1,0 +1,19 @@
+--------------
+1- tp4056 type c charging module
+
+2- GPD2856 mp3 decoder
+
+3- 18650 battery holder
+
+4-18650 battery 1500 mAh
+
+5-DPDT swithc
+
+6-red and black stranded wires 0.5mm
+
+7-red and black heat shrink 2mm
+
+--------------
+tools used
+
+scissors,nail clippers,glue gun and that's it. super (tech-friendly) 
