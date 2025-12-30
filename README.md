@@ -1,4 +1,4 @@
-![prototype4](https://github.com/user-attachments/assets/18b8010b-773c-4e24-9300-6172fb42fab6)---------
+---------
 mp3-player
 completed 
 (maker: kaito) 
@@ -20,6 +20,8 @@ date  2025/12/25 to 2025/12/28
 
  ------ 
  back 2025/12/29 got the schematics and everything ordered 
+
+
 <img width="1800" height="1000" alt="prototype" src="https://github.com/user-attachments/assets/63f2ea49-e718-49e3-97f8-de38f7dbe42c" />
 
 
