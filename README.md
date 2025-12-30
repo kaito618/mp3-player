@@ -20,11 +20,10 @@ date  2025/12/25 to 2025/12/28
 
  ------ 
  back 2025/12/29 got the schematics and everything ordered 
- 
-<table>
+ <table>
   <tr>
     <td>
-      <img width="350" height="350" alt="prototype" 
+      <img width="300" height="300" alt="prototype" 
            src="https://github.com/user-attachments/assets/63f2ea49-e718-49e3-97f8-de38f7dbe42c">
     </td>
     <td>
@@ -40,6 +39,16 @@ date  2025/12/25 to 2025/12/28
     <td>
       <img width="300" height="300" alt="fourthimage" 
            src="https://github.com/user-attachments/assets/a80fc85d-19e8-4d40-a19d-83bcaaaba30c">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="300" height="300" alt="fifthimage" 
+           src="https://github.com/user-attachments/assets/040e9d2e-06b8-4be2-ab07-0b8d94bdd64c">
+    </td>
+    <td>
+      <img width="300" height="300" alt="sixthimage" 
+           src="https://github.com/user-attachments/assets/ca5c33d4-0cbf-48a9-9aa7-1166105c7c63">
     </td>
   </tr>
 </table>
