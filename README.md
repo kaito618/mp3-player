@@ -24,7 +24,7 @@ date  2025/12/25 to 2025/12/28
 <table>
   <tr>
     <td>
-      <img width="500" height="500" alt="prototype" 
+      <img width="700" height="700" alt="prototype" 
            src="https://github.com/user-attachments/assets/63f2ea49-e718-49e3-97f8-de38f7dbe42c">
     </td>
     <td>
