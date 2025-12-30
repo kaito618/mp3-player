@@ -24,11 +24,11 @@ date  2025/12/25 to 2025/12/28
 <table>
   <tr>
     <td>
-      <img width="700" height="900" alt="prototype" 
+      <img width="1800" height="900" alt="prototype" 
            src="https://github.com/user-attachments/assets/63f2ea49-e718-49e3-97f8-de38f7dbe42c">
     </td>
     <td>
-      <img width="500" height="900" alt="prototypeirl" 
+      <img width="500" height="500" alt="prototypeirl" 
            src="https://github.com/user-attachments/assets/dd9bce9f-22ca-40fc-8af8-c1a7c04906fe">
     </td>
   </tr>
