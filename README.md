@@ -53,3 +53,37 @@ date  2025/12/25 to 2025/12/28
   </tr>
 </table>
 
+
+---------
+guess what i'm back 
+
+for the first attempt i did it solder free as i didn't have the tools yet so now  as i have them i disconnected everything and soldered it again now it's more durable and i added buttons (the board alr got the buttons but i soldered extra wires to connect them to other buttons on the box cover
+
+1- soldered
+2- buttons
+3- working
+4- cutting pos instead of neg this time (switch)
+
+#what i used
+
+![Screenshot_2026-03-10-14-58-29-30](https://github.com/user-attachments/assets/e21e63c3-fa63-4798-a3d8-f883576156a9)
+
+#connections
+
+![Screenshot_2026-03-10-14-58-41-13](https://github.com/user-attachments/assets/5b392186-19ac-4edc-b6e1-81a09b50244d)
+
+and then i used my secret power to assemble it (MAGIC) yah that's right i used magic
+
+
+https://github.com/user-attachments/assets/0c0e54d8-f865-4e3a-9da0-f8119431134f
+
+
+i'm joking i just used the power of hope,love,back bending
+to turn it from this
+
+![IMG_20260310_201443](https://github.com/user-attachments/assets/83d51da7-0bd0-4f9e-9a67-6a811637898f)
+
+to this
+
+![IMG_20260310_201156](https://github.com/user-attachments/assets/907bed2d-5738-47e0-a911-85717d3545a1)
+
