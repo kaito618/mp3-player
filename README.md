@@ -2,7 +2,7 @@
 mp3-player
 completed 
 (maker: kaito) 
-date  2025/12/25 to 2025/12/28 (first attempt)
+date  2025/12/25 to 2025/12/28 (first attempt) solderless prototype attempt go down for the actual final project
 ---------
 #goals 
 
@@ -13,6 +13,11 @@ date  2025/12/25 to 2025/12/28 (first attempt)
 -no phone needed ----> got two storages options sd card and usb stick up to 32 gbs (fat32 formated/preferred)
 
 -solder free     ----> connecting with twisting wires and adding an extra layer of hot glue to make it steady 
+
+#reason to make it
+
+(i'm making this mp3 player to reduce my screentime and to save phone's bat)
+
 ----------
 - ill come back with the pics and everything after a proper rest see ya  
 
@@ -88,3 +93,6 @@ to this
 
 ![IMG_20260310_201156](https://github.com/user-attachments/assets/907bed2d-5738-47e0-a911-85717d3545a1)
 
+#working session (tut)/timelapse
+-
+https://vimeo.com/1172614502?share=copy&fl=sv&fe=ci
