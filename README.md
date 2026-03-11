@@ -60,8 +60,11 @@ guess what i'm back
 for the first attempt i did it solder free as i didn't have the tools yet so now  as i have them i disconnected everything and soldered it again now it's more durable and i added buttons (the board alr got the buttons but i soldered extra wires to connect them to other buttons on the box cover
 
 1- soldered
+
 2- buttons
+
 3- working
+
 4- cutting pos instead of neg this time (switch)
 
 #what i used
