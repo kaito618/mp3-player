@@ -2,11 +2,9 @@
 mp3-player
 completed 
 (maker: kaito) 
-date  2025/12/25 to 2025/12/28
+date  2025/12/25 to 2025/12/28 (first attempt)
 ---------
 #goals 
-
--cheap           ----> from (2k-5kegp)(42-105usd) to (257 egp all parts)(5.4 usd) 
 
 -portable        ----> two modes 5v direct or 1500 mah (swappable/recargable) battary type c charged - (button to switch between modes) 
 
